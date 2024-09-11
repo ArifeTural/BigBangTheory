@@ -1,0 +1,1 @@
+Big Bang Theory oyuncuları hakkında bir proje.

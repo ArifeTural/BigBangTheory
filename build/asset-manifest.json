@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5b828b5e.css",
+    "main.js": "/static/js/main.3cd7bcdd.js",
+    "static/media/navi-bg.webp": "/static/media/navi-bg.9cb7bafc83cb943bd2d4.webp",
+    "static/media/TBBT_logo.svg.png": "/static/media/TBBT_logo.svg.04838896b1e14cd1b753.png",
+    "index.html": "/index.html",
+    "main.5b828b5e.css.map": "/static/css/main.5b828b5e.css.map",
+    "main.3cd7bcdd.js.map": "/static/js/main.3cd7bcdd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b828b5e.css",
+    "static/js/main.3cd7bcdd.js"
+  ]
+}

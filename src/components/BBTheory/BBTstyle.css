@@ -1,0 +1,56 @@
+*{
+    /* background-color: #7b7db1; */
+}
+.cont{
+    background-image: url(../../../public/img/TBBT_logo.svg.png);
+    
+ 
+
+ 
+    
+
+}
+.genel{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+}
+
+.Bbt-card{
+ width: 300px;
+ height: 500px !important;
+background-color: rgba(0, 0, 0, 0) !important;
+color: whitesmoke !important;
+font-weight: bolder;
+border: 2px solid rgba(255, 0, 0, 0) !important;
+
+
+}
+
+.Bbt-card img{
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+    border: 10px solid lightblue;
+    border-radius: 15px;
+    transition: 1s ;
+}
+
+.Bbt-card img:hover{
+    transform: rotateY(360deg) scale(0.5);
+  
+    border: 10px solid #961c22;
+
+}
+
+
+li{
+    font-weight: 6px !important;
+    
+}
+.btn{
+    background-color: #961c22 !important ;
+    color: azure  !important;
+
+}
